@@ -1,0 +1,34 @@
+[
+  {
+    "EntryId": 1001,
+    "ProfileId": 0,
+    "EntryDate": "2026-06-11T16:13:38.9003197-07:00",
+    "Weight": 200,
+    "BodyFatPercentage": 20,
+    "Notes": "Need to increase cardio"
+  },
+  {
+    "EntryId": 1002,
+    "ProfileId": 0,
+    "EntryDate": "2026-06-11T16:15:23.698164-07:00",
+    "Weight": 99,
+    "BodyFatPercentage": null,
+    "Notes": ""
+  },
+  {
+    "EntryId": 1003,
+    "ProfileId": 101,
+    "EntryDate": "2026-06-12T13:19:07.7586693-07:00",
+    "Weight": 200,
+    "BodyFatPercentage": null,
+    "Notes": "Rode bike 30 min"
+  },
+  {
+    "EntryId": 1004,
+    "ProfileId": 102,
+    "EntryDate": "2026-06-12T13:38:22.8722246-07:00",
+    "Weight": 98,
+    "BodyFatPercentage": null,
+    "Notes": ""
+  }
+]

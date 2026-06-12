@@ -1,0 +1,29 @@
+[
+  {
+    "WorkoutId": 5001,
+    "ProfileId": 0,
+    "WorkoutDate": "2026-06-11T16:14:13.7213398-07:00",
+    "WorkoutType": "Bike riding",
+    "Minutes": 30,
+    "Intensity": "Moderate",
+    "Notes": "Rode on the trainer"
+  },
+  {
+    "WorkoutId": 5002,
+    "ProfileId": 101,
+    "WorkoutDate": "2026-06-12T13:20:52.7603887-07:00",
+    "WorkoutType": "Rode bike on trainer",
+    "Minutes": 30,
+    "Intensity": "Hard",
+    "Notes": "6/11/2026 bike ride"
+  },
+  {
+    "WorkoutId": 5003,
+    "ProfileId": 101,
+    "WorkoutDate": "2026-06-12T13:37:27.4591981-07:00",
+    "WorkoutType": "Walking the dogs",
+    "Minutes": 20,
+    "Intensity": "Hard",
+    "Notes": ""
+  }
+]
